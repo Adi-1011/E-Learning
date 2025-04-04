@@ -24,7 +24,7 @@ body {
     width: 100%;
     max-width: 1200px;
     margin: 0 auto;
-    padding: 0 20px;
+    padding: 90px 50px;
 }
 
 /* Header Styles */
@@ -119,10 +119,16 @@ nav ul li a.active {
 }
 
 .hero-image {
+    height: 70px;
     width: 50%;
     display: flex;
     justify-content: center;
     align-items: center;
+}
+#hero-image-og{
+    height: 550px;
+    padding-right: 50px;
+    padding-top: 15  0px ;
 }
 
 .hero h1 {
